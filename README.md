@@ -4,10 +4,6 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Anirban-1490"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github"></a> 
-<a href="https://github.com/Anirban-1490"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a> 
-<a href="https://github.com/Anirban-1490"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square"></a>
-<a href="https://github.com/Anirban-1490/Project-Uplist/graphs/contributors"><img src="https://img.shields.io/github/contributors-anon/Anirban-1490/Project-Uplist"></a>
 <a href="https://github.com/Anirban-1490"><img src="https://img.shields.io/maintenance/yes/2022"></a>
 <a href="https://github.com/Anirban-1490"><img src="https://badgen.net/github/commits/Anirban-1490/Project-Uplist"></a>
    <a href="https://github.com/Anirban-1490"><img src="https://badgen.net/github/open-prs/Anirban-1490/Project-Uplist"></a>
