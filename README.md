@@ -1,39 +1,5 @@
 
-<p align="center">
-<img src="https://github.com/Anirban-1490/Downlist/blob/master/public/DownlistLogoNew.svg"></a>
-</p>
-
-<p align="center">
-<a href="https://github.com/Anirban-1490"><img src="https://img.shields.io/maintenance/yes/2022"></a>
-<a href="https://github.com/Anirban-1490"><img src="https://badgen.net/github/commits/Anirban-1490/Project-Uplist"></a>
-   <a href="https://github.com/Anirban-1490"><img src="https://badgen.net/github/open-prs/Anirban-1490/Project-Uplist"></a>
-   <a href="https://github.com/Anirban-1490"><img src="https://badgen.net/github/closed-prs/Anirban-1490/Project-Uplist"></a>
-   
-</p> 
-
-<br>
-<h1 align="center">DOWNLIST</h1>
-
-<h3 align="center">Downlist is a Love Letter to Anime fans.</h3>
-
----
- - view `Upcoming Anime` or anime that are `Currently Airing` and much More 
- 
- - view your `Favourite Character` or meet some `New` ones and much More 
- 
- - Add your favourite anime to your `Personal List`
- 
- - `Comment` your thoughts , `Follow` other users , Create your `Own` profile
- 
-    & much more
- 
- 
- <br>
- 
- <br>
- 
-
-<h3 align="center">This project is done using <a align="center" href ="https://github.com/jikan-me/jikan">Jikan API</a></h3> 
+<h3 align="center">This project is completed by Kevin Norris</h3> 
 
 <br>
 
